@@ -1,0 +1,8 @@
+{
+  "name": "UniLink Nigeria",
+  "description": "The professional network built for Nigerian students. Verify your student status, find SIWES placements, and discover career paths with AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
